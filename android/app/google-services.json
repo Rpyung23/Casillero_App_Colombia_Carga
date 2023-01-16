@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "4672288616",
+    "project_id": "carga-colombiana",
+    "storage_bucket": "carga-colombiana.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4672288616:android:87652219911e371523c8dd",
+        "android_client_info": {
+          "package_name": "com.casillero.lockercargacolombia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "4672288616-v3uj3b0418e6fb9r7db90hgp62maga22.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeAe-cQNRU4FMEtYPnwCpTfuRRZynP20Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "4672288616-v3uj3b0418e6fb9r7db90hgp62maga22.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
